@@ -81,4 +81,4 @@ Solution: Inspect the Amazon search page source code in your browser and update 
 
 🛡️ License 
 
-This project is licensed under the MIT License. For more information, see the LICENSE file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
